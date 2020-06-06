@@ -9,7 +9,7 @@ $primaryColor: #ff3500;
 $typography: Roboto;
 
 img {
-  max-width: 100%;
+  max-width: 780px;
 }
 
 body {
@@ -51,7 +51,12 @@ section {
   margin: 40px 0 0 0;
 }
 
-nav a,
+nav a {
+  color: $textColor;
+  text-decoration: none;
+}
+
+nav a.selected,
 p a {
   color: $textColor;
   text-decoration: none;
