@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: alex.kirts@gmail.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: alexcmyk
 github_username: alexcmyk
 theme: minima
